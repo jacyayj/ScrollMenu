@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScrollMenu">
+        <attr name="scrollmenu_head" format="reference"/>
+        <attr name="scrollmenu_body" format="reference"/>
+        <attr name="scrollmenu_menu_id" format="reference"/>
+    </declare-styleable>
+
+</resources>
